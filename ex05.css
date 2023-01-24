@@ -1,0 +1,28 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.gra{
+    background: linear-gradient(#ab1919, #fff);
+}
+mark{
+    background: linear-gradient(transparent 60%, rgb(255, 225, 0) 0%);
+}
+ul{
+    background-color: rgb(230, 230, 230);
+}
+h1{
+    font-size: 250%;
+    color: rgb(255, 255, 255);
+}
+header {
+    text-align: center;
+    margin-top: 50px;
+   margin-bottom: 25px;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    padding: 0;
+}
+.class1{
+    font-size: 75%;
+}
